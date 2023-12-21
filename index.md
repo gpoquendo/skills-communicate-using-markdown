@@ -6,4 +6,4 @@
 
 #### Header 4
 
-Added some headers to this file.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
