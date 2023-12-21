@@ -11,3 +11,7 @@
 ``` C#
 string str = "Hello world!";
 ```
+
+- [x] Learn using markdown
+- [ ] Follow course instructions
+- [ ] Complete markdown course
